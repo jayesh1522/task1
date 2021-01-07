@@ -1,0 +1,160 @@
+﻿{
+  "html": {
+    "head": {
+      "title": "Student Registration"
+    },
+    "body": {
+      "a": [
+        {
+          "@href": "#",
+          "#text": "Home"
+        },
+        {
+          "@href": "#",
+          "#text": "Contact"
+        },
+        {
+          "@href": "#",
+          "#text": "About"
+        },
+        {
+          "@href": "#",
+          "#text": "Project"
+        }
+      ],
+      "br": [
+        "",
+        "",
+        ""
+      ],
+      "h1": "Student Registration Form",
+      "form": {
+        "br": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "input": [
+          {
+            "@type": "text"
+          },
+          {
+            "@type": "text"
+          },
+          {
+            "@type": "date"
+          },
+          {
+            "@type": "text"
+          },
+          {
+            "@type": "radio",
+            "@name": "r"
+          },
+          {
+            "@type": "radio",
+            "@name": "r"
+          },
+          {
+            "@type": "radio",
+            "@name": "r"
+          },
+          {
+            "@type": "checkbox"
+          },
+          {
+            "@type": "submit"
+          }
+        ],
+        "select": {
+          "option": [
+            "Male",
+            "Female",
+            "Transegender"
+          ]
+        },
+        "textarea": {
+          "@rows": "5",
+          "@cols": "70"
+        },
+        "a": [
+          {
+            "@href": "https://www.gmail.com/",
+            "img": {
+              "@src": "C:\\Users\\jayesh chouhan\\Desktop\\task1\\images\\4.png",
+              "@height": "20",
+              "@width": "20"
+            }
+          },
+          {
+            "@href": "https://www.facebook.com/",
+            "img": {
+              "@src": "C:\\Users\\jayesh chouhan\\Desktop\\task1\\images\\1.png",
+              "@height": "20",
+              "@width": "20"
+            }
+          },
+          {
+            "@href": "https://web.whatsapp.com/",
+            "img": {
+              "@src": "C:\\Users\\jayesh chouhan\\Desktop\\task1\\images\\2.png",
+              "@height": "20",
+              "@width": "20"
+            }
+          },
+          {
+            "@href": "https://www.instagram.com/",
+            "img": {
+              "@src": "C:\\Users\\jayesh chouhan\\Desktop\\task1\\images\\3.png",
+              "@height": "20",
+              "@width": "20"
+            }
+          }
+        ],
+        "#text": [
+          "First Name:",
+          "last Name:",
+          "DOB:",
+          "Father Name:",
+          "Document:",
+          "Adhaar",
+          "Driving License",
+          "Other",
+          "Gender:",
+          "Description:",
+          "Confirm",
+          "Made By IEC202001"
+        ]
+      },
+      "#text": [
+        "|",
+        "|",
+        "|"
+      ]
+    }
+  }
+}
